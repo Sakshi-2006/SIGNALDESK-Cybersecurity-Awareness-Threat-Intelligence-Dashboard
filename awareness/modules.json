@@ -1,0 +1,9 @@
+[
+ {"id":"phishing","title":"Pause before you click","category":"PHISHING","tip":"Check the sender and destination carefully. Unexpected urgency, payment changes, and requests for sign-in codes deserve extra scrutiny.","task":"Report a suspicious message through your organization’s approved channel; do not forward it widely."},
+ {"id":"mfa","title":"Protect sign-in","category":"ACCOUNT SECURITY","tip":"Use MFA where available. Never approve a prompt you did not initiate and never share a one-time code.","task":"Review MFA methods on one important account."},
+ {"id":"updates","title":"Keep software current","category":"VULNERABILITY EXPOSURE","tip":"Updates fix known weaknesses. Restart when required and use your organization’s managed update process.","task":"Check whether automatic updates are enabled on your browser."},
+ {"id":"passwords","title":"Use unique passphrases","category":"CREDENTIAL THREATS","tip":"Unique credentials limit the damage when one service is exposed. A reputable password manager can help.","task":"Replace one reused password with a unique generated password."},
+ {"id":"attachments","title":"Handle attachments safely","category":"MALWARE","tip":"Unexpected attachments can be risky even when the display name looks familiar. Verify through a separate trusted channel.","task":"Review your process for reporting an unexpected attachment."},
+ {"id":"privacy","title":"Share data carefully","category":"DATA EXPOSURE","tip":"Share only information needed for the task, with approved recipients and storage locations.","task":"Check the audience before sharing your next document."},
+ {"id":"incident","title":"Report early","category":"SOCIAL ENGINEERING","tip":"A mistaken click or unusual prompt is a reason to ask for help promptly; early reporting supports response.","task":"Find your help desk or incident reporting contact."}
+]

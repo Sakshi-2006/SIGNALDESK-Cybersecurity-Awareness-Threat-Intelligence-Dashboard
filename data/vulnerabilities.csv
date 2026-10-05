@@ -1,0 +1,334 @@
+cve_id,summary,severity,risk_score,confidence_score,status,record_label
+CVE-2099-100005,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,56,42,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100011,Synthetic training record; not a report of a real threat or incident.,CRITICAL,64,51,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100017,Synthetic training record; not a report of a real threat or incident.,MEDIUM,52,41,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100023,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,59,95,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100029,Synthetic training record; not a report of a real threat or incident.,LOW,56,95,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100035,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,38,39,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100041,Synthetic training record; not a report of a real threat or incident.,HIGH,58,33,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100047,Synthetic training record; not a report of a real threat or incident.,HIGH,66,58,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100053,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,63,29,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100059,Synthetic training record; not a report of a real threat or incident.,MEDIUM,53,43,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100065,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,61,53,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100071,Synthetic training record; not a report of a real threat or incident.,MEDIUM,67,74,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100077,Synthetic training record; not a report of a real threat or incident.,MEDIUM,64,92,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100083,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,50,33,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100089,Synthetic training record; not a report of a real threat or incident.,HIGH,56,41,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100095,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,58,34,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100101,Synthetic training record; not a report of a real threat or incident.,LOW,44,33,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100107,Synthetic training record; not a report of a real threat or incident.,MEDIUM,44,26,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100113,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,52,29,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100119,Synthetic training record; not a report of a real threat or incident.,MEDIUM,42,36,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100125,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,66,90,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100131,Synthetic training record; not a report of a real threat or incident.,LOW,45,81,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100137,Synthetic training record; not a report of a real threat or incident.,HIGH,62,83,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100143,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,45,39,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100149,Synthetic training record; not a report of a real threat or incident.,HIGH,62,43,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100155,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,66,43,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100161,Synthetic training record; not a report of a real threat or incident.,LOW,35,45,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100167,Synthetic training record; not a report of a real threat or incident.,MEDIUM,58,80,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100173,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,52,56,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100179,Synthetic training record; not a report of a real threat or incident.,HIGH,66,65,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100185,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,54,76,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100191,Synthetic training record; not a report of a real threat or incident.,LOW,34,48,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100197,Synthetic training record; not a report of a real threat or incident.,CRITICAL,78,95,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100203,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,68,82,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100209,Synthetic training record; not a report of a real threat or incident.,LOW,57,78,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100215,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,56,43,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100221,Synthetic training record; not a report of a real threat or incident.,HIGH,52,47,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100227,Synthetic training record; not a report of a real threat or incident.,MEDIUM,54,34,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100233,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,66,76,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100239,Synthetic training record; not a report of a real threat or incident.,LOW,54,95,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100245,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,39,39,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100251,Synthetic training record; not a report of a real threat or incident.,HIGH,59,36,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100257,Synthetic training record; not a report of a real threat or incident.,CRITICAL,75,84,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100263,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,63,87,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100269,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,64,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100275,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,44,50,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100281,Synthetic training record; not a report of a real threat or incident.,HIGH,70,95,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100287,Synthetic training record; not a report of a real threat or incident.,CRITICAL,76,69,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100293,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,57,80,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100299,Synthetic training record; not a report of a real threat or incident.,MEDIUM,53,29,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100305,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,52,98,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100311,Synthetic training record; not a report of a real threat or incident.,MEDIUM,55,86,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100317,Synthetic training record; not a report of a real threat or incident.,LOW,51,84,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100323,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,INFORMATIONAL,46,74,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100329,Synthetic training record; not a report of a real threat or incident.,LOW,52,58,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100335,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,55,85,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100341,Synthetic training record; not a report of a real threat or incident.,HIGH,58,25,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100347,Synthetic training record; not a report of a real threat or incident.,LOW,50,41,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100353,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,52,85,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100359,Synthetic training record; not a report of a real threat or incident.,HIGH,61,25,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100365,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,60,43,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100371,Synthetic training record; not a report of a real threat or incident.,MEDIUM,44,37,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100377,Synthetic training record; not a report of a real threat or incident.,MEDIUM,61,85,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100383,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,73,98,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100389,Synthetic training record; not a report of a real threat or incident.,CRITICAL,63,54,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100395,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,53,49,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100401,Synthetic training record; not a report of a real threat or incident.,LOW,50,72,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100407,Synthetic training record; not a report of a real threat or incident.,MEDIUM,62,70,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100413,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,38,52,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100419,Synthetic training record; not a report of a real threat or incident.,CRITICAL,62,73,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100425,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,57,66,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100431,Synthetic training record; not a report of a real threat or incident.,MEDIUM,56,60,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100437,Synthetic training record; not a report of a real threat or incident.,MEDIUM,51,38,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100443,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,56,93,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100449,Synthetic training record; not a report of a real threat or incident.,MEDIUM,53,98,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100455,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,64,64,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100461,Synthetic training record; not a report of a real threat or incident.,HIGH,70,69,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100467,Synthetic training record; not a report of a real threat or incident.,HIGH,59,49,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100473,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,62,85,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100479,Synthetic training record; not a report of a real threat or incident.,CRITICAL,81,84,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100485,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,59,36,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100491,Synthetic training record; not a report of a real threat or incident.,MEDIUM,61,68,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100497,Synthetic training record; not a report of a real threat or incident.,MEDIUM,44,38,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100503,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,58,69,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100509,Synthetic training record; not a report of a real threat or incident.,LOW,54,91,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100515,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,36,48,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100521,Synthetic training record; not a report of a real threat or incident.,MEDIUM,46,45,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100527,Synthetic training record; not a report of a real threat or incident.,MEDIUM,66,94,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100533,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,51,36,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100539,Synthetic training record; not a report of a real threat or incident.,CRITICAL,75,80,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100545,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,47,56,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100551,Synthetic training record; not a report of a real threat or incident.,HIGH,71,85,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100557,Synthetic training record; not a report of a real threat or incident.,HIGH,57,92,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100563,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,61,48,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100569,Synthetic training record; not a report of a real threat or incident.,MEDIUM,39,45,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100575,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,64,70,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100581,Synthetic training record; not a report of a real threat or incident.,MEDIUM,53,64,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100587,Synthetic training record; not a report of a real threat or incident.,HIGH,49,37,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100593,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,50,88,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100599,Synthetic training record; not a report of a real threat or incident.,CRITICAL,66,74,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100605,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,53,82,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100611,Synthetic training record; not a report of a real threat or incident.,MEDIUM,55,61,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100617,Synthetic training record; not a report of a real threat or incident.,INFORMATIONAL,49,95,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100623,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,63,54,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100629,Synthetic training record; not a report of a real threat or incident.,CRITICAL,58,49,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100635,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,53,28,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100641,Synthetic training record; not a report of a real threat or incident.,HIGH,66,87,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100647,Synthetic training record; not a report of a real threat or incident.,HIGH,60,46,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100653,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,43,40,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100659,Synthetic training record; not a report of a real threat or incident.,MEDIUM,46,30,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100665,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,61,89,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100671,Synthetic training record; not a report of a real threat or incident.,LOW,51,90,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100677,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,69,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100683,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,48,43,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100689,Synthetic training record; not a report of a real threat or incident.,LOW,34,30,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100695,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,63,98,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100701,Synthetic training record; not a report of a real threat or incident.,MEDIUM,50,58,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100707,Synthetic training record; not a report of a real threat or incident.,MEDIUM,71,87,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100713,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,62,88,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100719,Synthetic training record; not a report of a real threat or incident.,MEDIUM,54,94,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100725,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,56,52,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100731,Synthetic training record; not a report of a real threat or incident.,MEDIUM,42,42,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100737,Synthetic training record; not a report of a real threat or incident.,LOW,39,37,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100743,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,60,26,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100749,Synthetic training record; not a report of a real threat or incident.,HIGH,52,49,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100755,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,61,65,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100761,Synthetic training record; not a report of a real threat or incident.,LOW,51,90,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100767,Synthetic training record; not a report of a real threat or incident.,MEDIUM,49,32,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100773,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,50,75,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100779,Synthetic training record; not a report of a real threat or incident.,MEDIUM,51,66,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100785,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,39,28,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100791,Synthetic training record; not a report of a real threat or incident.,HIGH,68,88,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100797,Synthetic training record; not a report of a real threat or incident.,HIGH,55,55,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100803,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,49,44,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100809,Synthetic training record; not a report of a real threat or incident.,HIGH,52,36,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100815,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,59,81,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100821,Synthetic training record; not a report of a real threat or incident.,MEDIUM,45,38,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100827,Synthetic training record; not a report of a real threat or incident.,MEDIUM,49,62,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100833,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,60,56,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100839,Synthetic training record; not a report of a real threat or incident.,LOW,51,52,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100845,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,62,64,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100851,Synthetic training record; not a report of a real threat or incident.,HIGH,60,62,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100857,Synthetic training record; not a report of a real threat or incident.,HIGH,70,91,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100863,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,51,83,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100869,Synthetic training record; not a report of a real threat or incident.,HIGH,67,73,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100875,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,59,84,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100881,Synthetic training record; not a report of a real threat or incident.,HIGH,71,87,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100887,Synthetic training record; not a report of a real threat or incident.,MEDIUM,61,73,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100893,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,48,98,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100899,Synthetic training record; not a report of a real threat or incident.,MEDIUM,61,65,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100905,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,38,39,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100911,Synthetic training record; not a report of a real threat or incident.,MEDIUM,41,52,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100917,Synthetic training record; not a report of a real threat or incident.,INFORMATIONAL,44,65,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100923,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,39,48,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100929,Synthetic training record; not a report of a real threat or incident.,HIGH,53,49,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100935,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,46,49,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100941,Synthetic training record; not a report of a real threat or incident.,MEDIUM,63,83,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100947,Synthetic training record; not a report of a real threat or incident.,LOW,39,25,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100953,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,70,67,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-100959,Synthetic training record; not a report of a real threat or incident.,MEDIUM,50,65,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100965,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,36,26,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100971,Synthetic training record; not a report of a real threat or incident.,HIGH,72,93,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100977,Synthetic training record; not a report of a real threat or incident.,LOW,54,89,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-100983,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,56,90,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-100989,Synthetic training record; not a report of a real threat or incident.,HIGH,65,70,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-100995,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,61,76,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101001,Synthetic training record; not a report of a real threat or incident.,LOW,50,79,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101007,Synthetic training record; not a report of a real threat or incident.,MEDIUM,60,64,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101013,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,50,57,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101019,Synthetic training record; not a report of a real threat or incident.,MEDIUM,52,38,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101025,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,51,76,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101031,Synthetic training record; not a report of a real threat or incident.,MEDIUM,47,78,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101037,Synthetic training record; not a report of a real threat or incident.,LOW,41,39,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101043,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,49,38,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101049,Synthetic training record; not a report of a real threat or incident.,MEDIUM,63,63,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101055,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,76,82,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101061,Synthetic training record; not a report of a real threat or incident.,HIGH,62,96,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101067,Synthetic training record; not a report of a real threat or incident.,LOW,46,75,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101073,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,51,74,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101079,Synthetic training record; not a report of a real threat or incident.,MEDIUM,48,39,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101085,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,53,29,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101091,Synthetic training record; not a report of a real threat or incident.,HIGH,73,95,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101097,Synthetic training record; not a report of a real threat or incident.,INFORMATIONAL,38,56,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101103,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,53,60,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101109,Synthetic training record; not a report of a real threat or incident.,MEDIUM,58,54,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101115,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,65,66,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101121,Synthetic training record; not a report of a real threat or incident.,MEDIUM,40,26,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101127,Synthetic training record; not a report of a real threat or incident.,MEDIUM,48,63,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101133,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,49,28,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101139,Synthetic training record; not a report of a real threat or incident.,CRITICAL,81,96,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101145,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,58,35,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101151,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,85,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101157,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,58,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101163,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,64,54,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101169,Synthetic training record; not a report of a real threat or incident.,HIGH,56,49,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101175,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,51,65,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101181,Synthetic training record; not a report of a real threat or incident.,LOW,62,88,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101187,Synthetic training record; not a report of a real threat or incident.,CRITICAL,64,57,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101193,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,64,82,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101199,Synthetic training record; not a report of a real threat or incident.,MEDIUM,49,26,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101205,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,46,66,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101211,Synthetic training record; not a report of a real threat or incident.,HIGH,47,34,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101217,Synthetic training record; not a report of a real threat or incident.,HIGH,62,88,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101223,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,54,49,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101229,Synthetic training record; not a report of a real threat or incident.,HIGH,64,42,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101235,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,66,51,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101241,Synthetic training record; not a report of a real threat or incident.,LOW,48,38,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101247,Synthetic training record; not a report of a real threat or incident.,MEDIUM,55,92,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101253,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,56,35,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101259,Synthetic training record; not a report of a real threat or incident.,MEDIUM,54,89,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101265,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,50,42,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101271,Synthetic training record; not a report of a real threat or incident.,HIGH,64,62,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101277,Synthetic training record; not a report of a real threat or incident.,HIGH,61,63,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101283,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,55,94,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101289,Synthetic training record; not a report of a real threat or incident.,CRITICAL,68,96,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101295,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,INFORMATIONAL,52,72,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101301,Synthetic training record; not a report of a real threat or incident.,MEDIUM,51,67,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101307,Synthetic training record; not a report of a real threat or incident.,MEDIUM,62,91,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101313,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,58,81,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101319,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,45,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101325,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,46,30,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101331,Synthetic training record; not a report of a real threat or incident.,MEDIUM,42,43,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101337,Synthetic training record; not a report of a real threat or incident.,MEDIUM,49,39,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101343,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,51,82,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101349,Synthetic training record; not a report of a real threat or incident.,CRITICAL,76,83,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101355,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,34,72,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101361,Synthetic training record; not a report of a real threat or incident.,MEDIUM,54,71,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101367,Synthetic training record; not a report of a real threat or incident.,LOW,61,97,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101373,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,60,47,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101379,Synthetic training record; not a report of a real threat or incident.,HIGH,53,39,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101385,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,58,33,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101391,Synthetic training record; not a report of a real threat or incident.,MEDIUM,55,74,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101397,Synthetic training record; not a report of a real threat or incident.,LOW,42,38,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101403,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,34,26,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101409,Synthetic training record; not a report of a real threat or incident.,INFORMATIONAL,41,80,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101415,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,52,86,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101421,Synthetic training record; not a report of a real threat or incident.,HIGH,61,51,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101427,Synthetic training record; not a report of a real threat or incident.,HIGH,66,80,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101433,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,INFORMATIONAL,48,80,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101439,Synthetic training record; not a report of a real threat or incident.,MEDIUM,61,61,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101445,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,60,82,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101451,Synthetic training record; not a report of a real threat or incident.,MEDIUM,41,46,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101457,Synthetic training record; not a report of a real threat or incident.,HIGH,52,28,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101463,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,63,48,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101469,Synthetic training record; not a report of a real threat or incident.,LOW,41,44,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101475,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,44,34,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101481,Synthetic training record; not a report of a real threat or incident.,HIGH,74,85,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101487,Synthetic training record; not a report of a real threat or incident.,LOW,47,65,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101493,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,43,50,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101499,Synthetic training record; not a report of a real threat or incident.,LOW,49,82,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101505,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,61,65,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101511,Synthetic training record; not a report of a real threat or incident.,HIGH,64,75,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101517,Synthetic training record; not a report of a real threat or incident.,HIGH,60,53,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101523,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,62,87,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101529,Synthetic training record; not a report of a real threat or incident.,LOW,55,76,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101535,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,58,96,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101541,Synthetic training record; not a report of a real threat or incident.,MEDIUM,50,33,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101547,Synthetic training record; not a report of a real threat or incident.,HIGH,60,53,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101553,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,54,79,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101559,Synthetic training record; not a report of a real threat or incident.,CRITICAL,63,42,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101565,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,56,49,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101571,Synthetic training record; not a report of a real threat or incident.,MEDIUM,47,36,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101577,Synthetic training record; not a report of a real threat or incident.,HIGH,65,80,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101583,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,54,48,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101589,Synthetic training record; not a report of a real threat or incident.,MEDIUM,62,85,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101595,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,53,90,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101601,Synthetic training record; not a report of a real threat or incident.,HIGH,60,54,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101607,Synthetic training record; not a report of a real threat or incident.,HIGH,56,27,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101613,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,40,48,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101619,Synthetic training record; not a report of a real threat or incident.,LOW,59,85,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101625,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,INFORMATIONAL,37,64,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101631,Synthetic training record; not a report of a real threat or incident.,MEDIUM,41,32,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101637,Synthetic training record; not a report of a real threat or incident.,CRITICAL,85,95,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101643,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,54,25,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101649,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,75,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101655,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,63,64,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101661,Synthetic training record; not a report of a real threat or incident.,HIGH,58,47,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101667,Synthetic training record; not a report of a real threat or incident.,MEDIUM,60,98,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101673,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,54,66,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101679,Synthetic training record; not a report of a real threat or incident.,MEDIUM,47,59,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101685,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,LOW,36,38,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101691,Synthetic training record; not a report of a real threat or incident.,MEDIUM,41,30,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101697,Synthetic training record; not a report of a real threat or incident.,MEDIUM,50,54,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101703,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,68,74,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101709,Synthetic training record; not a report of a real threat or incident.,MEDIUM,55,34,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101715,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,55,92,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101721,Synthetic training record; not a report of a real threat or incident.,MEDIUM,46,47,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101727,Synthetic training record; not a report of a real threat or incident.,HIGH,64,66,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101733,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,49,45,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101739,Synthetic training record; not a report of a real threat or incident.,CRITICAL,68,89,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101745,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,56,51,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101751,Synthetic training record; not a report of a real threat or incident.,MEDIUM,58,61,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101757,Synthetic training record; not a report of a real threat or incident.,LOW,48,57,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101763,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,63,93,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101769,Synthetic training record; not a report of a real threat or incident.,INFORMATIONAL,55,88,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101775,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,64,72,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101781,Synthetic training record; not a report of a real threat or incident.,MEDIUM,59,93,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101787,Synthetic training record; not a report of a real threat or incident.,HIGH,58,64,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101793,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,70,92,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101799,Synthetic training record; not a report of a real threat or incident.,MEDIUM,57,85,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101805,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,71,42,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101811,Synthetic training record; not a report of a real threat or incident.,HIGH,60,59,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101817,Synthetic training record; not a report of a real threat or incident.,HIGH,60,48,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101823,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,52,30,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101829,Synthetic training record; not a report of a real threat or incident.,CRITICAL,64,29,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101835,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,57,84,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101841,Synthetic training record; not a report of a real threat or incident.,CRITICAL,56,45,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101847,Synthetic training record; not a report of a real threat or incident.,LOW,60,97,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101853,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,49,66,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101859,Synthetic training record; not a report of a real threat or incident.,CRITICAL,66,57,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101865,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,66,97,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101871,Synthetic training record; not a report of a real threat or incident.,MEDIUM,66,87,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101877,Synthetic training record; not a report of a real threat or incident.,CRITICAL,62,51,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101883,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,74,80,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101889,Synthetic training record; not a report of a real threat or incident.,LOW,43,32,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101895,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,50,72,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101901,Synthetic training record; not a report of a real threat or incident.,MEDIUM,59,97,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101907,Synthetic training record; not a report of a real threat or incident.,INFORMATIONAL,28,26,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101913,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,52,49,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101919,Synthetic training record; not a report of a real threat or incident.,MEDIUM,53,73,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101925,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,59,25,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101931,Synthetic training record; not a report of a real threat or incident.,HIGH,55,34,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101937,Synthetic training record; not a report of a real threat or incident.,MEDIUM,54,59,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101943,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,MEDIUM,51,43,NEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101949,Synthetic training record; not a report of a real threat or incident.,HIGH,72,83,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101955,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,INFORMATIONAL,43,80,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101961,Synthetic training record; not a report of a real threat or incident.,LOW,35,38,MONITORING,SYNTHETIC / DEMO ONLY
+CVE-2099-101967,Synthetic training record; not a report of a real threat or incident.,LOW,31,28,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101973,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,CRITICAL,79,96,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101979,Synthetic training record; not a report of a real threat or incident.,MEDIUM,48,83,FALSE_POSITIVE,SYNTHETIC / DEMO ONLY
+CVE-2099-101985,Synthetic training record; not a report of a real threat or incident. Illustrative behavior context is fictional and supports only a demo ATT&CK mapping.,HIGH,63,41,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
+CVE-2099-101991,Synthetic training record; not a report of a real threat or incident.,HIGH,57,51,CLOSED,SYNTHETIC / DEMO ONLY
+CVE-2099-101997,Synthetic training record; not a report of a real threat or incident.,HIGH,64,37,UNDER_REVIEW,SYNTHETIC / DEMO ONLY
